@@ -43,10 +43,13 @@ https://github.com/aryanploxxx/Marmeto-Coding-Assessment-L-2-Submission/assets/9
 
 ## Screenshots
 
-|![Screenshot 0](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/4cec3142-a35f-4b7a-a239-3b911cf2c1b0) |
-|![Screenshot 1](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/5f254b63-5325-467d-84d7-628371666997) |
-|![Screenshot 2](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/8a3a2b13-1b9d-4e44-a66f-4bf6649266b3) |
-|![Screenshot 3](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/17c690dd-df76-433e-9b6f-ff3ee17e12e1) |
+![Screenshot 0](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/4cec3142-a35f-4b7a-a239-3b911cf2c1b0) 
+
+![Screenshot 1](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/5f254b63-5325-467d-84d7-628371666997) 
+
+![Screenshot 2](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/8a3a2b13-1b9d-4e44-a66f-4bf6649266b3) 
+
+![Screenshot 3](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/17c690dd-df76-433e-9b6f-ff3ee17e12e1) 
 
 
 
