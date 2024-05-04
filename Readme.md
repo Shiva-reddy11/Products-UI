@@ -42,10 +42,11 @@ https://github.com/aryanploxxx/Marmeto-Coding-Assessment-L-2-Submission/assets/9
 
 
 ## Screenshots
-| Italic             |  Block letters |
-:-------------------------:|:-------------------------:
-|![image](https://github.com/aryanploxxx/Marmeto-Coding-Assessment-L-2-Submission/assets/94754702/8214c29f-4428-4cdd-b33c-a14034628d63) | ![image](https://github.com/aryanploxxx/Marmeto-Coding-Assessment-L-2-Submission/assets/94754702/aac3d57d-1be8-4c35-aff0-31c3168491a7)|
-| ![image](https://github.com/aryanploxxx/Marmeto-Coding-Assessment-L-2-Submission/assets/94754702/4a9db53c-2bbc-4867-8115-a1584e4408c6) | ![image](https://github.com/aryanploxxx/Marmeto-Coding-Assessment-L-2-Submission/assets/94754702/60fec5d9-e62f-4951-bb8d-7849649d88d3) |
+
+|![Screenshot 0](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/4cec3142-a35f-4b7a-a239-3b911cf2c1b0) |
+|![Screenshot 1](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/5f254b63-5325-467d-84d7-628371666997) |
+|![Screenshot 2](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/8a3a2b13-1b9d-4e44-a66f-4bf6649266b3) |
+|![Screenshot 3](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/17c690dd-df76-433e-9b6f-ff3ee17e12e1) |
 
 
 
