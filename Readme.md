@@ -22,7 +22,6 @@ This project is hosted here: "URL"
 ## Features
 
 - **All Categories Button [Bonus]**: To Display Products from every Category available in one go.
-- **Individual Category Buttons**: To Display Products belonging to a certain category.
 - **Responsiveness**: This webpage is responsive among all devices, ranging from width of below 767px to 1024px and beyond.
 
 ## Dependencies
