@@ -27,9 +27,8 @@ This project is hosted here: "URL"
 - **Responsiveness**: This webpage is responsive among all devices, ranging from width of below 767px to 1024px and beyond.
 
 ## Dependencies
-- **Figma Design**: https://www.figma.com/file/lXrVC18Jpw7OBzKl8BMWc9/Category-tabs 
+- **Figma Design**: https://www.figma.com/file/lXrVC18Jpw7OBzKl8BMWc9/Category-tabs
 - **API Endpoint**: https://cdn.shopify.com/s/files/1/0564/3685/0790/files/multiProduct.json
-- **Inter Google Font**: https://fonts.google.com/specimen/Inter
 
 ## Technologies Used
 
