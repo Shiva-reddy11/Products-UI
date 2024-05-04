@@ -20,9 +20,8 @@ This project is hosted here: "URL"
 3. **Open Live Server to run the Project.**
 
 ## Features
-
-- **All Categories Button [Bonus]**: To Display Products from every Category available in one go.
 - **Responsiveness**: This webpage is responsive among all devices, ranging from width of below 767px to 1024px and beyond.
+- **All Categorys**: Defaultly Show All Categories List
 
 ## Dependencies
 - **Figma Design**: https://www.figma.com/file/lXrVC18Jpw7OBzKl8BMWc9/Category-tabs
