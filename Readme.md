@@ -6,9 +6,8 @@ This project is hosted here: "URL"
 
 1. **Clone or Download:**
    - If using Git, clone the repository and navigate to the project folder using the following command:
-   -  [ git clone https://github.com/aryanploxxx/Marmeto-Coding-Assessment-L-2-Submission.git
+     ``` [ git clone https://github.com/aryanploxxx/Marmeto-Coding-Assessment-L-2-Submission.git
      cd ./Marmeto-Coding-Assessment-L-2-Submission](https://github.com/Shiva-reddy11/Products-UI.git)
-     ```
      ```
 
 2. **Explore the Structure:**
