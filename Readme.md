@@ -1,6 +1,6 @@
 # Coding Assessment L-2 Code Submission by Shiva Reddy
 
-This project is hosted here: "URL"
+This project is hosted here: https://shiva-reddy11.github.io/Products-UI/
 
 ## Getting Started
 
